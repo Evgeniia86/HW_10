@@ -1,0 +1,100 @@
+    1  hj
+    2   man
+    3  help
+    4  q
+    5  git config --global user.name "Your Name"
+    6  git config --global user.email "your_email@exampele.com"
+    7  "HW_10
+    8  Add a README file
+    9  gitignore
+   10  AL
+   11  git clone https://github.com/yourusername/HW_10.git
+   12  cd HW_10
+   13  touch text_ignore.txt
+   14  echo "text_ignore.txt" >> .gitignore
+   15  git status
+   16  git add
+   17  git commit -m "Add text_ignore.txt to .gitignore
+   18  git checkout -b develop
+   19  touch develop_test.txt
+   20  git add.
+   21  git commit -m "Add develop_tst.txt"
+   22  echo "Some changes > develop_text.txt
+   23  git status
+   24  git add .
+   25  git commit -m "Update devevop_test.txt"
+   26  git checkout main
+   27  git merge develop
+   28  git log
+   29  history > command_list.csv
+   30  git add . 
+   31  git commit -m "Add command_list.csv"
+   32  git push
+   33  <> Code
+   34  http://github/Evgeniia86/HW_10
+   35  cd ~/HW_10
+   36  http://github.com/Evgeniia86/HW_10.git
+   37  cd ~HW_10
+   38  help
+   39  ll
+   40  tree
+   41  trftli
+   42  ver
+   43  v
+   44  ll
+   45  ll
+   46  htop
+   47  top
+   48  ll
+   49  ll
+   50  dit
+   51  git
+   52  cd
+   53  cd /
+   54  ll
+   55  cd ..
+   56  cd ..
+   57  cd /
+   58  ll
+   59  cd c:/1
+   60  dir
+   61  cd HW_10/
+   62  touch text_ignore.tx
+   63  touch text_ignore.txt
+   64  cat text_ignore.txt >> .gitignore 
+   65  cat `text_ignore.txt` >> .gitignore 
+   66  cat >> .gitignore 
+   67  git status
+   68  git add
+   69  git add .
+   70  git status
+   71  commit 
+   72  git commit
+   73  touch main_test.txt
+   74  git status
+   75  git add .
+   76  git commit
+   77* 
+   78  git commit
+   79  git status
+   80  git status
+   81  git switch -c developer
+   82  checkout
+   83  ll
+   84  git branch
+   85  git checkout developer 
+   86  touch develop_test.txt
+   87  ll
+   88* 
+   89  git add .
+   90  git commit
+   91  cat >> develop_test.txt
+   92  cat develop_test.txt 
+   93  git status
+   94  git add .
+   95  git commit 
+   96  git branch
+   97  git checkout main
+   98  git merge
+   99  git log
+  100  history > command_list.csv
